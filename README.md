@@ -22,6 +22,10 @@ The main goal is to prove bitcoin is secure. At least until the day that Quantum
 And run this command:
 
 ```$ pip install -r requirements.txt```  
+```$ pip3 install -r requirements.txt``` 
+
+python Btcbf.py
+python3 Btcbf.py brute1
 
 
 ## **Usage**
