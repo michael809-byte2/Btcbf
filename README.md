@@ -25,6 +25,7 @@ And run this command:
 ```$ pip3 install -r requirements.txt``` 
 
 ```$ python Btcbf.py```
+
 ```$ python3 Btcbf.py brute1```
 
 
